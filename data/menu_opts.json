@@ -17,9 +17,9 @@
             "texto": "Cards - Tarjetas"
         },
         {
-            "ruta" : "Probando",
+            "ruta" : "scaffold",
             "icon" : "folder_open",
-            "texto": "Probando nada más"
+            "texto": "Cupertino Scaffold"
         },
         {
             "ruta" : "AnimatedContainer",
